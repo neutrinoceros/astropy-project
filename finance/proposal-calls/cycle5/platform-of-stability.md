@@ -34,10 +34,14 @@ Listed hereafter are the concrete deliverables to be expected
 
 - reproducible builds in "oldestdeps" testing environments (issue) 
 - split out extension modules to a `astropy-core` package (pre-APE)
+- ensure compatibility with PEP 803/809 (the future of CPython's Limited API for 2026)
+  throughout coordinated packages
+- reforge astropy's configuration discovery system to improve maintainability and
+  unblock missing features (pre-APE)
 - developer guidelines for maintainable new APIs (email)
 - detailed, quarterly reports of bug reports closed and PRs reviewed
 
-> Note: 3 of these 4 items are, at the time of writing, being actively discussed
+> Note: most of these items are, at the time of writing, being actively discussed
 > in the open with other maintainers and other stake holders.
 > I intend to provide links to where the most recent discussions are happening
 > but these may change over the course of the Cycle 5 review process.
