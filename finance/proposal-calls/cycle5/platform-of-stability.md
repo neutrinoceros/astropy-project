@@ -17,6 +17,7 @@ on the astropy core library.
 - fix incompatibilities with development versions of core and secondary dependencies as needed
 - extend support to future features of the Python interpreter (like JIT compilation and free-threading)
 - handle long-term API evolutions through deprecation cycles
+- solidify deprecation cycle guidelines
 
 #### Roadmap Items
 
