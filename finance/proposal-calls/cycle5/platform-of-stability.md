@@ -7,6 +7,9 @@ on the astropy core library.
 ### Project Description / Scope of Work
 
 - improving backward and forward compatibility of astropy with its own dependencies at large
+  - https://github.com/astropy/astropy/issues/18782 and sub-issues
+  - https://github.com/astropy/astropy/issues/18842
+  - https://github.com/astropy/astropy/issues/18851
 - coordinating with upstream and downstream stake holders to improve testing on a range
   of compatibile environments
 - improve portability and re-usability of binary artifacts
@@ -18,6 +21,7 @@ on the astropy core library.
 - extend support to future features of the Python interpreter (like JIT compilation and free-threading)
 - handle long-term API evolutions through deprecation cycles
 - solidify deprecation cycle guidelines
+  - https://github.com/astropy/astropy/issues/18852
 
 #### Roadmap Items
 
