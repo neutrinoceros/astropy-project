@@ -1,34 +1,35 @@
-### Your title here
+### General maintainer / Compatibility and secutiry officer: neutrinoceros.dev
 
 **Proposal Category**: Operations
 
 ### Project Team
-Clément Robert
+Clément Robert (@neutrinoceros)
 
 ### Project Description / Scope of Work
-Briefly describe how this work will benefit Astropy packages / users / community.
-This section, including the below subsections, will be used as the Scope of Work in the resulting
-contracts funding approved FRs.
+General core library maintainance. Compatibility and security operations.
 
 #### Project / Work / Deliverables
-Provide the details of the planned work so that the Astropy community members will understand what
-is planned. This should include a description of expected specific results and/or deliverables. For
-_Operations_ proposals, describe the role(s) and responsibilities this funding will cover.
+This will fund my activities as a core package general maintainer and security team member. 
+My primary focus is to deliver compatibility fixes as needed, including, but not restricted to forward compatibility issues, following evolutions in any dependencies.
+
+My activities include collaborations both upstream and downstream of astropy, reporting bugs and helping fixing them in any capacity. I emphasize that the term "dependencies" here includes, but is not limited to runtime dependencies consumed by end users. Rather, infrastructural dependencies, dev tooling and build toolchains are also included.
+
+This will also fund my time overseeing the review of pull requests, participating to regular team meetings as well as communicating with other team members by any means appropriate.
 
 ### Approximate Budget
 Currency: US $
-The approximate budget should be specified in USD. However, we are open to spending funds
-internationally. Budgets should be converted to USD using a plausible exchange rate.
 
-Include overheads, fringe, etc. if money is paid as sub-award to an institution.
+- Salary / contractor fee: $44.000
+  this corresponds to 400hr (based on the most recent 12 month period), at a rate of 110$/hr.
+- Travel and conference registration: $4.000
+  I'm including this travel budget to cover for:
+  - fare and lodging for the yearly Coordination meeting if I'm able to participate
+  - fare for possible trips between France and the UK, to collaborate with the Aperio team
+  - fare, lodging, and other fees (registration, printing, meals) for one or two conferences, limited to Europe and reachable by train.
+  I do not expect to spend this sub budget in full.
+  If individual requests when more information is available are prefered, I'm happy to oblige.
 
-- Salary / contractor fees etc. (give sum here, details about contract, payment method
-  (contract/sub-award) etc. can be worked out with the Finance Committee later)
-- Travel and conference registration (if needed, list separately from the above; funded from the
-  separate travel budget)
-- TOTAL
-
-Please note that we would happily accept budget items other than the above.
+- TOTAL: $48.000
 
 ### Period of Performance
 
