@@ -1,4 +1,4 @@
-### General maintainer / Compatibility and secutiry officer: neutrinoceros.dev
+### General maintainer / Compatibility and Secutiry officer: neutrinoceros.dev
 
 **Proposal Category**: Operations
 
