@@ -44,10 +44,9 @@ consulting.
 @neutrinoceros and will be the first interlocutor and main reviewer over the first
 phase, and provide the bulk of the work force over the second one.
 
-@nstarman's exact role is not defined yet. Nathaniel however has a solid record
-and has been involved since the project's inception has he provided both the
+@nstarman will primarily help review PRs, but also contribute them as is helpful. He provided both the
 initial report that explored the entire concept of an Array API-compatible
-version of `astropy.units.Quantity` and already collaborated zith Marten on the
+version of `astropy.units.Quantity` and already collaborated with Marten on the
 existing and unfinished proof of concept implementation.
 
 Secondary goals include:
