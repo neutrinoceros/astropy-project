@@ -68,8 +68,8 @@ Currency: US $
   breakdown:
     - Marten requests for 200hrs at $150/hr ($30,000) 
     - Clément requests for 200hrs at $110/hr ($22,000)
-    - Nathaniel requests for 200hrs at $150/hr ($30,000)
-- TOTAL: $82,000
+    - Nathaniel volunteers for this, without requiring funding
+- TOTAL: $52,000
   minimal useful budget: TBD
 
 Please note that we would happily accept budget items other than the above.
